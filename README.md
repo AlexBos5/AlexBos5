@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**AlexBos5/AlexBos5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hi there!
+### I am
+Alex Bossert
+### Studying
+BSc Computer Science at Stellenbosch University.
+### Languages I am experienced in include
+Java ☕ and C
+### Lanaguages that I have worked with include
+Python 🐍 and Typescript
+### Lanagues I would like to learn include
+C++, GO and Rust 🦀
+### Interests
+I am interested in leveraging articial intelligence to improve lives.
