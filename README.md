@@ -1,4 +1,5 @@
-## 👋 Hi there!
+
+## 👋<span style="color:blue">Hi there!</span>
 ### I am
 Alex Bossert
 ### Studying
