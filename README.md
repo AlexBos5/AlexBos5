@@ -1,6 +1,4 @@
-<a href="https://steamuserimages-a.akamaihd.net/ugc/1681493015562502108/8764B6ED5D9F03C5368C69608FC365B8DEC1F5F5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <img src="https://img.shields.io/badge/Alex-Bossert-pink" width="500">
-</a>
 
 <a href="https://steamuserimages-a.akamaihd.net/ugc/1681493015562502108/8764B6ED5D9F03C5368C69608FC365B8DEC1F5F5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <img src="https://img.shields.io/badge/I%20am-Studying:-darkgreen" width="150">
