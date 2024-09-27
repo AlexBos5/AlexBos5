@@ -1,20 +1,29 @@
+<img src="https://img.shields.io/badge/Alex-Bossert-pink" width="500">
 
-## 👋<span style="color:blue">Hi there!</span>
-### I am
-Alex Bossert
-### Studying
+<img src="https://img.shields.io/badge/I%20am-Studying:-darkgreen" width="150">
+
 BSc Computer Science at Stellenbosch University.
-### Languages I am experienced in:
+
+<img src="https://img.shields.io/badge/Languages-I%20am%20experienced%20in:-brightgreen" width="250">
+
 - [x] Java ☕
 - [x] C
-### Lanaguages that I have worked with:
+
+<img src="https://img.shields.io/badge/Languages-I%20have%20worked%20with:-blue" width="250">
+
 - [x] Python 🐍
 - [x] 32-bit Assembly
 - [x] Typescript
 - [x] SQL
-### Tools I have worked with:
+
+<img src="https://img.shields.io/badge/Tools-I%20have%20worked%20with:-magenta" width="250">
+
 - [x] Postman
-### Lanagues I would like to learn:
+
+<img src="https://img.shields.io/badge/Languages-I%20would%20like%20to%20learn:-red" width="250">
+
 C++, GO and Rust 🦀
-### Interests
-I am interested in leveraging articial intelligence to improve lives.
+
+<img src="https://img.shields.io/badge/My-Interests:-green" width="150">
+
+- [x] I am interested in leveraging articial intelligence to improve lives.
