@@ -22,7 +22,9 @@ BSc Computer Science at Stellenbosch University.
 
 <img src="https://img.shields.io/badge/Languages-I%20would%20like%20to%20learn:-red" width="250">
 
-C++, GO and Rust 🦀
+- [ ] C++
+- [ ] GO
+- [ ] Rust 🦀
 
 <img src="https://img.shields.io/badge/My-Interests:-green" width="150">
 
