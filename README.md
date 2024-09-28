@@ -1,43 +1,45 @@
-<img src="https://img.shields.io/badge/Alex-Bossert-pink" width="500">
+<div align="center">
+  <img src="https://img.shields.io/badge/Alex-Bossert-ff6f61" width="300">
+</div>
 
-<a href="https://steamuserimages-a.akamaihd.net/ugc/1681493015562502108/8764B6ED5D9F03C5368C69608FC365B8DEC1F5F5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-<img src="https://img.shields.io/badge/I%20am-Studying:-darkgreen" width="150">
-</a>
+---
 
-BSc Computer Science at Stellenbosch University.
+<div align="center">
+  <img src="https://img.shields.io/badge/-Studies:-92a8d1" width="200">
+</div>
 
-<a href="https://steamuserimages-a.akamaihd.net/ugc/1681493015562502108/8764B6ED5D9F03C5368C69608FC365B8DEC1F5F5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-<img src="https://img.shields.io/badge/Languages-I%20am%20experienced%20in:-brightgreen" width="250">
-</a>
+- **Current Degree**: Completing last year BSc in Computer Science  
+- **University**: Stellenbosch University
 
-- [x] Java ☕
-- [x] C
+---
 
-<a href="https://steamuserimages-a.akamaihd.net/ugc/1681493015562502108/8764B6ED5D9F03C5368C69608FC365B8DEC1F5F5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-<img src="https://img.shields.io/badge/Languages-I%20have%20worked%20with:-blue" width="250">
-</a>
+<div align="center">
+  <img src="https://img.shields.io/badge/Languages%20&%20Tools-I%20am%20experienced%20with:-f7cac9" width="300">
+</div>
 
-- [x] Python 🐍
-- [x] 32-bit Assembly
-- [x] Typescript
-- [x] SQL
+<p align="left">
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
-<a href="https://steamuserimages-a.akamaihd.net/ugc/1681493015562502108/8764B6ED5D9F03C5368C69608FC365B8DEC1F5F5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-<img src="https://img.shields.io/badge/Tools-I%20have%20worked%20with:-magenta" width="250">
-</a>
+---
 
-- [x] Postman
+<div align="center">
+  <img src="https://img.shields.io/badge/I%20have-worked%20with:-f4a460" width="300">
+</div>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> x86_Assembly </a>
+  <a href="https://en.wikibooks.org/wiki/X86_Assembly" target="_blank" rel="noreferrer"> </a>
 
-<a href="https://steamuserimages-a.akamaihd.net/ugc/1681493015562502108/8764B6ED5D9F03C5368C69608FC365B8DEC1F5F5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-<img src="https://img.shields.io/badge/Languages-I%20would%20like%20to%20learn:-red" width="250">
-</a>
+---
 
-- [ ] C++
-- [ ] GO
-- [ ] Rust 🦀
-
-<a href="https://steamuserimages-a.akamaihd.net/ugc/1681493015562502108/8764B6ED5D9F03C5368C69608FC365B8DEC1F5F5/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-<img src="https://img.shields.io/badge/My-Interests:-green" width="150">
-</a>
-
-- [x] I am interested in leveraging articial intelligence to improve lives.
+<div align="center">
+  <img src="https://img.shields.io/badge/Languages-I%20would%20like%20to%20learn:-ffcc5c" width="300">
+</div>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
