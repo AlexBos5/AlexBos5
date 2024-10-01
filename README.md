@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Studies:-92a8d1" width="150">
+  <img src="https://img.shields.io/badge/-Studies:-92a8d1" width="120">
 </div>
 
 - **Current Degree**: Completing last year BSc in Computer Science  
@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Languages%20&%20Tools-I%20am%20experienced%20with:-f7cac9" width="300">
+  <img src="https://img.shields.io/badge/Languages%20&%20Tools-I%20am%20experienced%20with:-f7cac9" width="400">
 </div>
 
 <p align="left">
@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/I%20have-worked%20with:-f4a460" width="300">
+  <img src="https://img.shields.io/badge/I%20have-worked%20with:-f4a460" width="200">
 </div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
