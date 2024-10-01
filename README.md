@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Studies:-92a8d1" width="200">
+  <img src="https://img.shields.io/badge/-Studies:-92a8d1" width="150">
 </div>
 
 - **Current Degree**: Completing last year BSc in Computer Science  
