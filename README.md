@@ -5,12 +5,20 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Studies:-92a8d1" width="120">
-</div>
+  <img src="https://img.shields.io/badge/-Currently Busy With:-blueviolet" width="180">
+</div>  
 
-- **Current Degree**: Completing last year BSc in Computer Science  
+- Preparing for Honours in Computer Science
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Education:-92a8d1" width="120">
+</div>  
+
+- **Current Degree**: Bachelors degree in Computer Science
 - **University**: Stellenbosch University
-
+  
 ---
 
 <div align="center">
@@ -32,8 +40,10 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> x86_Assembly </a>
-  <a href="https://en.wikibooks.org/wiki/X86_Assembly" target="_blank" rel="noreferrer"> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> </a>
+  <a href="https://en.wikibooks.org/wiki/X86_Assembly" target="_blank" rel="noreferrer"> x86_Assembly </a>
+
 
 ---
 
