@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-Education:-92a8d1" width="120">
 </div>  
 
-- **Current Degree**: Bachelors degree in Computer Science
+- **Current Degree**: Bachelors of Science degree in Computer Science
 - **University**: Stellenbosch University
   
 ---
