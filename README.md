@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-Currently Busy With:-blueviolet" width="180">
 </div>  
 
-- Preparing for Honours in Computer Science
+- Honours in Computer Science
 
 ---
 
