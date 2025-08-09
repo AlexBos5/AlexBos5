@@ -33,6 +33,6 @@ I have completed my **BSc in Computer Science**
 <h2 align="center">⚒️ Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,postgres,matlab,vim,neovim,vscode,arch" />
+    <img src="https://skillicons.dev/icons?i=git,linux,postgres,kubernetes,docker,matlab,vim,neovim,vscode,arch" />
     <img src="https://skillicons.dev/icons?i=react,nextjs,gitlab,maven,notion,npm,tailwind" /><br>
 </div>
