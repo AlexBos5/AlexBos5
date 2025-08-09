@@ -1,55 +1,38 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Alex-Bossert-ff6f61" width="300">
-</div>
-
----
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Alex+Bossert;Full+Stack+Developer;BSc+(Hons)+CS" />
+</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Currently Busy With:-blueviolet" width="180">
-</div>  
-
-- Honours in Computer Science
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Education:-92a8d1" width="120">
-</div>  
-
-- **Current Degree**: Bachelors of Science degree in Computer Science
-- **University**: Stellenbosch University
   
----
+Currently busy with my **BSc Honours In Computer Science**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Languages%20&%20Tools-I%20am%20experienced%20with:-f7cac9" width="400">
+I am studying at **Stellenbosch University**
+
+I have completed my **BSc in Computer Science**
+
 </div>
 
-<p align="left">
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/I%20have-worked%20with:-f4a460" width="200">
+<div align="center"> 
+  <a href="mailto:alexbossert249@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/alex-bossert-53a46a27a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://alexbos5.github.io/webPortfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
 </div>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> </a>
-  <a href="https://en.wikibooks.org/wiki/X86_Assembly" target="_blank" rel="noreferrer"> x86_Assembly </a>
 
-
----
-
+<h2 align="center">⚒️ Languages ⚒️</h2>
+<br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Languages-I%20would%20like%20to%20learn:-ffcc5c" width="300">
+    <img src="https://skillicons.dev/icons?i=java,python,c,typescript,javascript,haskell,golang,r" />
 </div>
-  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+
+<h2 align="center">⚒️ Frameworks & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,linux,postgres,matlab,vim,neovim,vscode,arch" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,gitlab,maven,notion,npm,tailwind" /><br>
+</div>
