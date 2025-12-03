@@ -4,11 +4,11 @@
 
 <div align="center">
   
-Currently busy with my **BSc Honours In Computer Science**
+Currently preparing for my **MSc in Machine Learning and Artificial Intelligence**
 
 I am studying at **Stellenbosch University**
 
-I have completed my **BSc in Computer Science**
+I have completed my **BSc Honours in Computer Science**
 
 </div>
 
