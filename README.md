@@ -4,7 +4,7 @@
 
 <div align="center">
   
-Currently preparing for my **MSc in Machine Learning and Artificial Intelligence**
+Currently completing my **MSc in Machine Learning and Artificial Intelligence**
 
 I am studying at **Stellenbosch University**
 
